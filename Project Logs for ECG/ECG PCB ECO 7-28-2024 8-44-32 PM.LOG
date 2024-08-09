@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RightElectrode Pin=J1-1
+Removed Pin From Net: NetName=LeftElectrode Pin=J1-2
+Change Component Footprint: Designator=R6 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R7 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R8 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R9 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R10 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Added Pin To Net: NetName=LeftElectrode Pin=J1-1
+Added Pin To Net: NetName=RightElectrode Pin=J1-2

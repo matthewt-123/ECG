@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=C2-1
+Removed Pin From Net: NetName=NetC2_2 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=NetC1_2 Pin=R6-1
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-6
+Change Component Footprint: Designator=C3 Old Footprint=CAPR51-254-508X318X736 New Footprint=FP-R82DC4100DQ60J-MFG
+Change Component Footprint: Designator=C1 Old Footprint=CAPR51-254-508X318X736 New Footprint=FP-RAD-TH-D_8_0_5-L_20_2-MFG
+Change Component Footprint: Designator=C2 Old Footprint=CAPR51-254-508X318X736 New Footprint=FP-RAD-TH-D_8_0_5-L_20_2-MFG
+Change Component Comment : Designator=C4 Old Comment=47u New Comment=100n
+Change Component Comment : Designator=C5 Old Comment=47u New Comment=100n
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID=391D2C95-395E-4D38-B119-42125E06D536 Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=192826EC-41F3-4828-B95E-42C49CD68137
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID=391D2C95-395E-4D38-B119-42125E06D536 Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=192826EC-41F3-4828-B95E-42C49CD68137
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID=612C2FA2-A6EE-4F6E-885E-788AAC342167 Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=5ADAAA6B-93B0-463E-BAE4-502DA4228C82
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\XEFJJZOG" ("\XEFJJZOG")
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\PCYLKUZA" ("\PCYLKUZA")
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\KEZWKDQH" ("\KEZWKDQH")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "PET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "PET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dissipation Factor"; Value = "80%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.398inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "30R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "R82"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=R6-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-6
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC2_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R8-2
+Added Pin To Net: NetName=NetC3_2 Pin=R9-1
+Added Net: Name=NetC3_2

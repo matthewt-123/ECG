@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ECG\Project Outputs for ECG\Pick Place for ECG.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/07/24
+Time:       13:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"C5","67.3100","27.8130","TopLayer","0"
+"R8","67.6910","39.2430","TopLayer","270"
+"R12","70.7390","39.2430","TopLayer","90"
+"U3","83.4390","32.1310","TopLayer","270"
+"U2","51.5620","31.6230","TopLayer","0"
+"U1","36.7030","31.1150","TopLayer","90"
+"R11","31.2420","32.6390","TopLayer","0"
+"R10","71.2470","31.3690","TopLayer","0"
+"R9","73.7870","39.2430","TopLayer","270"
+"R7","52.1970","38.7350","TopLayer","0"
+"R6","43.8150","33.6550","TopLayer","270"
+"R5","40.5130","28.8290","TopLayer","90"
+"R4","40.5130","32.5120","TopLayer","270"
+"R3","31.2420","27.6860","TopLayer","0"
+"R2","31.2420","30.4800","TopLayer","0"
+"R1","31.3690","35.1790","TopLayer","0"
+"J1","27.6860","34.0360","TopLayer","90"
+"C4","61.2140","27.8130","TopLayer","0"
+"C3","78.1050","41.0210","TopLayer","90"
+"C2","61.3410","34.9250","TopLayer","90"
+"C1","37.5920","39.3700","TopLayer","180"

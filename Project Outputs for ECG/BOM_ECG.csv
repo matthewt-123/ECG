@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ECG\Project Outputs for ECG\Pick Place for ECG.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/07/24
+Time:       13:48
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Comment","Designator","Footprint","Description"
+"100n","C5","CAPR51-254-508X318X736","Radial Leaded Multilayer Ceramic Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 2-Pin THD, RoHS, Tape and Reel"
+"1.655k","R8","FP-MRS25-MFG","MRS25000C1000FRP00 Resistor, 100 Ohm, ± 1%, 600 mW, Axial Leaded, Metal Film (Thin Film), Professional"
+"1.655k","R12","FP-MRS25-MFG","MRS25000C1000FRP00 Resistor, 100 Ohm, ± 1%, 600 mW, Axial Leaded, Metal Film (Thin Film), Professional"
+"LM741CN/NOPB","U3","P0008A","Operational Amplifier, 8-pin MDIP, Pb-Free"
+"LM741CN","U2","P0008A","Operational Amplifier, 8-pin MDIP, Pb-Free"
+"INA126UA/2K5","U1","D0008A_N","Micropower Instrumentation Amplifier Single and Dual Versions, -40 to 85 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)"
+"Res 0805","R11","6-0805_N","Resistor"
+"1.655k","R10","FP-MRS25-MFG","MRS25000C1000FRP00 Resistor, 100 Ohm, ± 1%, 600 mW, Axial Leaded, Metal Film (Thin Film), Professional"
+"424k","R9","FP-MRS25-MFG","MRS25000C1000FRP00 Resistor, 100 Ohm, ± 1%, 600 mW, Axial Leaded, Metal Film (Thin Film), Professional"
+"100k","R7","FP-MRS25-MFG","MRS25000C1000FRP00 Resistor, 100 Ohm, ± 1%, 600 mW, Axial Leaded, Metal Film (Thin Film), Professional"
+"100k","R6","FP-MRS25-MFG","MRS25000C1000FRP00 Resistor, 100 Ohm, ± 1%, 600 mW, Axial Leaded, Metal Film (Thin Film), Professional"
+"Res 0805","R5","6-0805_N","Resistor"
+"Res 0805","R4","6-0805_N","Resistor"
+"Res 0805","R3","6-0805_N","Resistor"
+"Res 0805","R2","6-0805_N","Resistor"
+"Res 0805","R1","6-0805_N","Resistor"
+"HTSW-106-07-G-S","J1","FP-HTSW-106-07-G-S-MFG","CONN HEADER VERT 6POS 2.54MM"
+"100n","C4","CAPR51-254-508X318X736","Radial Leaded Multilayer Ceramic Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 2-Pin THD, RoHS, Tape and Reel"
+"200n","C3","FP-R82DC4100DQ60J-MFG","CAP FILM 1UF 5% 63VDC RADIAL"
+"47u","C2","FP-RAD-TH-D_8_0_5-L_20_2-MFG","Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 270uF ±20% 35V"
+"47u","C1","FP-RAD-TH-D_8_0_5-L_20_2-MFG","Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 270uF ±20% 35V"
